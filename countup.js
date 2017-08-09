@@ -14,3 +14,5 @@ function countUp(start) {
     }
     console.log(str);
 }
+
+//simple practice problem to prepare for a hacker rank test for a job
